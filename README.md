@@ -75,8 +75,7 @@ I'm a passionate Software Engineer focused on building **scalable full-stack app
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=thanush2205&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![](https://komarev.com/ghpvc/?username=thanush2205&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
